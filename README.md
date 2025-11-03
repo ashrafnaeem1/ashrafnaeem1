@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Ashraf Naeem
 
-I am student at JMI, New Delhi, India
+I `was` a student at JMI, New Delhi, India
 
 ### Happy Coding 😇
