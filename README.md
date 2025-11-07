@@ -25,7 +25,7 @@ Although, my repos are a stub currently.
 > ***Nor repulse the beggar (or anyone asking for help).*** [3] <br>
 > ***And proclaim the blessings of your Lord.*** <br>
  <br>
-***Footnotes:*** <br>
+Footnotes: <br>
 1. [A reference to the Prophet (Peace and Blessings be Upon Him)] <br>
 2. [Allah is The One and Only Who fulfils one’s need of everything — shelter, food, clothing, or anything else] <br>
 3. [The word used is *Saa-il* → one asking for help/need, rather than *Faqir* → beggar] <br>
