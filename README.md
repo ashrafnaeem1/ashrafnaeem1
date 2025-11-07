@@ -12,23 +12,23 @@ Although, my repos are a stub currently.
 ---
 ### 📖 Here's some verses from the beautiful Qur’an to reward you:
 
-> **[Qur’an 93 — Ad-Duhaa]**
-> By the morning sunlight,
-> and the night when it falls still!
-> Your Lord has not abandoned you, nor has He become hateful of you.
-> And the next life is certainly far better for you than this one.
-> ***And your Lord will give so much to you that you will be pleased.***
-> Did He not find you as an orphan, then sheltered you? [1]
-> And did He not find you unguided, then guide you?
-> And did He not find you needy, then fulfill your needs? [2]
-> ***So do NOT oppress the orphan.***
-> ***Nor repulse the beggar (or anyone asking for help).*** [3]
-> ***And proclaim the blessings of your Lord.***
-
-**Footnotes:**
-1. [A reference to the Prophet (Peace and Blessings be Upon Him)]
-2. [Allah is The One and Only Who fulfils one’s need of everything — shelter, food, clothing, or anything else]
-3. [The word used is *Saa-il* → one asking for help/need, rather than *Faqir* → beggar]
+> **[Qur’an 93 — Ad-Duhaa]** <br>
+> By the morning sunlight, <br>
+> and the night when it falls still! <br>
+> Your Lord has not abandoned you, nor has He become hateful of you. <br>
+> And the next life is certainly far better for you than this one. <br>
+> ***And your Lord will give so much to you that you will be pleased.*** <br>
+> Did He not find you as an orphan, then sheltered you? [1] <br>
+> And did He not find you unguided, then guide you? <br>
+> And did He not find you needy, then fulfill your needs? [2] <br>
+> ***So do NOT oppress the orphan.*** <br>
+> ***Nor repulse the beggar (or anyone asking for help).*** [3] <br>
+> ***And proclaim the blessings of your Lord.*** <br>
+ <br>
+**Footnotes:** <br>
+1. [A reference to the Prophet (Peace and Blessings be Upon Him)] <br>
+2. [Allah is The One and Only Who fulfils one’s need of everything — shelter, food, clothing, or anything else] <br>
+3. [The word used is *Saa-il* → one asking for help/need, rather than *Faqir* → beggar] <br>
 
 ---
 
