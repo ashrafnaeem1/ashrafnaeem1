@@ -6,7 +6,7 @@ A former student at JMI SAHSSS, currently exploring different fields.<br>
 Let's see where this path will take me — or maybe even you.<br>
 I genuinely believe that all lives are connected somehow.<br>
 <br>
-Although, my repos are a stub currently.
+Although, I am not active currently so my repositories are only placeholders.
 </p>
 
 ---
