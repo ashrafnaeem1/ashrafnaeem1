@@ -7,6 +7,7 @@ Let's see where this path will take me — or maybe even you.<br>
 I genuinely believe that all lives are connected somehow.<br>
 <br>
 Although, I am not active currently so most of my repositories are only placeholders.
+<br>
 (In the meantime you can checkout CS50_flagant repo, which is complete. It contains my submission for CS50p final project.)
 </p>
 
