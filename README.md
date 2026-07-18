@@ -32,5 +32,3 @@ Although, I am not active currently so most of my repositories are only placehol
 
 <h3 align="center">Happy Coding 😇</h3>
 <br><br><br>
----
-Last edited on 7 November, 2025.
