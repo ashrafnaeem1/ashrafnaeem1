@@ -6,7 +6,8 @@ A former student at JMI SAHSSS, currently exploring different fields.<br>
 Let's see where this path will take me — or maybe even you.<br>
 I genuinely believe that all lives are connected somehow.<br>
 <br>
-Although, I am not active currently so my repositories are only placeholders.
+Although, I am not active currently so most of my repositories are only placeholders.
+(In the meantime you can checkout CS50_flagant repo, which is complete. It contains my submission for CS50p final project.)
 </p>
 
 ---
