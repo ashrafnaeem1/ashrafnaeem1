@@ -1,6 +1,6 @@
 # Ashraf Naeem
 
-B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Contributer
+B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Contributor | Actively Looking for 2026 internships
 
 ## Projects
 
@@ -8,7 +8,7 @@ B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Cont
 
 *A desktop application for exploring country flags with fuzzy search*
 
-| | |
+| Feature | Details |
 | :--- | :--- |
 | **Tech Stack:** | Built with CustomTkinter, Python |
 | **Testing:** | 11 comprehensive pytest test cases |
@@ -18,7 +18,7 @@ B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Cont
 
 ## Skills
 
-| | |
+| Category | Details |
 | :--- | :--- |
 | **Languages:** | Python |
 | **Core:** | Git/GitHub, OOP, Unit Testing (pytest), Data Structures, CLI Development |
@@ -26,9 +26,6 @@ B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Cont
 
 ## Current focus
 
-|                                                      |
-| :---                                                 |
-| Open-source contributions (Hacktoberfest 2026)       |
-| Data science fundamentals through hands-on projects  |
-| First-year hackathon participation                   |
-| Looking for internships                              |
+* Open-source contributions (Hacktoberfest 2026)
+* Data science fundamentals through hands-on projects
+* First-year hackathon participation
