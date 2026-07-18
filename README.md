@@ -14,23 +14,19 @@ Although, I am not active currently so most of my repositories are only placehol
 ---
 ### 📖 Here's some verses from the beautiful Qur’an to reward you:
 
-> **[Qur’an 93 — Ad-Duhaa]** <br>
-> By the morning sunlight, <br>
-> and the night when it falls still! <br>
-> Your Lord has not abandoned you, nor has He become hateful of you. <br>
-> And the next life is certainly far better for you than this one. <br>
-> ***And your Lord will give so much to you that you will be pleased.*** <br>
-> Did He not find you as an orphan, then sheltered you? [1] <br>
-> And did He not find you unguided, then guide you? <br>
-> And did He not find you needy, then fulfill your needs? [2] <br>
-> ***So do NOT oppress the orphan.*** <br>
-> ***Nor repulse the beggar (or anyone asking for help).*** [3] <br>
-> ***And proclaim the blessings of your Lord.*** <br>
+> **[Qur’an 93 — Ad-Duhaa (Translation: M.A.S. Abdel Haleem)]** <br>
+> By the morning brightness <br>
+> and by the night when it grows still, <br>
+> your Lord has not forsaken you [Prophet], nor does He hate you, <br>
+> and the future will be better for you than the past; <br>
+> your Lord is sure to give you so much that you will be well satisfied. <br>
+> Did He not find you an orphan and shelter you? <br>
+> Did He not find you lost and guide you? <br>
+> Did He not find you in need and make you self-sufficient? <br>
+> So do not be harsh with the orphan <br>
+> and do not chide the one who asks for help; <br>
+> talk about the blessings of your Lord. <br>
  <br>
-Footnotes: <br>
-1. [A reference to the Prophet (Peace and Blessings be Upon Him)] <br>
-2. [Allah is The One and Only Who fulfils one’s need of everything — shelter, food, clothing, or anything else] <br>
-3. [The word used is *Saa-il* → one asking for help/need, rather than *Faqir* → beggar] <br>
 
 ---
 
