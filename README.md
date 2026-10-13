@@ -2,6 +2,8 @@
 
 B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Contributor | Actively Looking for 2026 internships
 
+NOTE: This profile is mostly a stub for now because currently I am adding stuff very slowly (and lazily). 
+
 ## Projects
 
 ### CS50P Final Project: Flagant
