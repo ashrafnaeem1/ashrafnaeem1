@@ -22,7 +22,7 @@ NOTE: This profile is mostly a stub for now because currently I am adding stuff 
 
 | Category | Details |
 | :--- | :--- |
-| **Languages:** | Python |
+| **Languages:** | Python, C, C++, Javascript |
 | **Core:** | Git/GitHub, OOP, Unit Testing (pytest), Data Structures, CLI Development |
 | **Learning:** | Data analysis, algorithms, fullstack web development |
 
