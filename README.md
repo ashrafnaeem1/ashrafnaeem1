@@ -22,12 +22,16 @@ This is app is still Work-in-progress. Any suggestions are welcome!
 
 *A simple chrome extension to highlight text, add tooltips and manage those highlights/tooltips.*
 
-\[I didn't put much thought in naming this project as it was (and is and will remain) a personal project. I'll rename this project to something better in the future.]
-
 | Feature | Details |
 | :--- | :--- |
 | **Tech Stack:** | Javascript (Manifest V3 Chrome Extension) |
 | **License:** | MIT License — open source |
+
+A personal project open-sourced for the benefit of whoever may want to use it. This project was 
+developed with heavy use of AI, and is by no means a professional or commercial project.
+This app is not demonstrative of my skills.
+
+Any suggestions are welcome.
 
 **[Click here to go to the Repository now.](https://github.com/ashrafnaeem1/highlight)**
 
