@@ -1,6 +1,6 @@
 # Ashraf Naeem
 
-B.Tech. CSE (Data Science), JMI, New Delhi | Python Developer | Open Source Contributor
+currently exploring different fields, learning new things.
 
 NOTE: This profile is mostly a stub for now because currently I am adding stuff very slowly (and lazily). 
 
