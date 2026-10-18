@@ -1,6 +1,4 @@
-# Ashraf Naeem
-
-currently exploring different fields, learning new things.
+Currently exploring different fields, learning new things.
 
 NOTE: This profile is mostly a stub for now because currently I am adding stuff very slowly (and lazily). 
 
