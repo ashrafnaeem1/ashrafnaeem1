@@ -4,7 +4,7 @@ Currently exploring different fields, learning new things.
 
 ### MedTracker
 
-*A simple app to help track medicines. *
+*A simple app to help track medicines.*
 
 This is app is still Work-in-progress. Any suggestions are welcome!
 
